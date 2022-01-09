@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteSuche">
+	<test name="Suche Blusen">
+		<classes>
+			<class name="de.training.selenium.berichtsbeispiel.SucheBlusen" />
+		</classes>
+	</test>
+	<test name="Suche Sommerkleider">
+		<classes>
+			<class name="de.training.selenium.berichtsbeispiel.SucheSommerkleider" />
+		</classes>
+	</test>
+	<test name="Suche Chiffonkleider">
+		<classes>
+			<class name="de.training.selenium.berichtsbeispiel.SucheChiffonkleider" />
+		</classes>
+	</test>
+</suite> 

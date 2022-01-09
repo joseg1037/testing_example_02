@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-15T12:53:00 CST" name="Default suite" finished-at="2021-11-15T12:53:08 CST" duration-ms="8397">
+    <groups>
+    </groups>
+    <test started-at="2021-11-15T12:53:00 CST" name="Default test" finished-at="2021-11-15T12:53:08 CST" duration-ms="8397">
+      <class name="de.training.dateiherunterladen.HeruntergeladeneDateiChecken">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:de.training.dateiherunterladen.HeruntergeladeneDateiChecken@33990a0c]" started-at="2021-11-15T12:53:00 CST" name="beforeClass" finished-at="2021-11-15T12:53:06 CST" duration-ms="5819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="heruntergeladeneDateiChecken()[pri:0, instance:de.training.dateiherunterladen.HeruntergeladeneDateiChecken@33990a0c]" started-at="2021-11-15T12:53:06 CST" name="heruntergeladeneDateiChecken" finished-at="2021-11-15T12:53:08 CST" duration-ms="2542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heruntergeladeneDateiChecken -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:de.training.dateiherunterladen.HeruntergeladeneDateiChecken@33990a0c]" started-at="2021-11-15T12:53:08 CST" name="afterClass" finished-at="2021-11-15T12:53:08 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- de.training.dateiherunterladen.HeruntergeladeneDateiChecken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

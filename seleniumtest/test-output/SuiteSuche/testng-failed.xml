@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteSuche]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Suche Blusen(failed)">
+    <classes>
+      <class name="de.training.selenium.berichtsbeispiel.SucheBlusen">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="sucheBlusen"/>
+        </methods>
+      </class> <!-- de.training.selenium.berichtsbeispiel.SucheBlusen -->
+    </classes>
+  </test> <!-- Suche Blusen(failed) -->
+</suite> <!-- Failed suite [SuiteSuche] -->
